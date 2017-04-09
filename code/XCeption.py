@@ -30,6 +30,7 @@ pool_size = (2, 2)
 kernel_size = (3, 3)
 
 
+
 #model = VGG16(weights='imagenet', include_top=False)
 #x = Dense(1, activation='sigmoid', name='predictions')(model.layers[-2].output)
 #my_model = Model(input=model.input, output=x)
